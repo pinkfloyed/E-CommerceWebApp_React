@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Output:
+![e1](https://github.com/user-attachments/assets/80e50308-da26-4f81-840b-ec462c13a555)
+Figure 1 : Home Page of E-Commerec WebApp 
+![e4](https://github.com/user-attachments/assets/c211f9fe-8673-428c-ac79-3279a7352150)
+Figure 2 : After Clicking SignUp User will create account
+![e2](https://github.com/user-attachments/assets/6e55ccb3-af2e-44fb-978d-a004a36c1c85)
+Figure 3 : After Login Username and Password
+![e3](https://github.com/user-attachments/assets/07ed27ba-2fec-47a8-8b85-75a0c703f2cd)
+Figure 4 : Product added to Cart, User can Add, Update, Delete
